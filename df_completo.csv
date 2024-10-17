@@ -1,0 +1,455 @@
+categoria,faixa,idade,atleta,sexo,estilo,academia,local
+1,FAIXA BRANCA MASCULINO,"3, 4 E 5 ANOS",Davi Horning Ferreira,Masculino,kata,Equipe The Family,Mesa Verde
+1,FAIXA BRANCA MASCULINO,"3, 4 E 5 ANOS",Theo Marcon de Quadros,Masculino,kata,Equipe The Family,Mesa Verde
+2,FAIXA BRANCA MASCULINO,6 E 7 ANOS,Felipe Buffara Guinski,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+2,FAIXA BRANCA MASCULINO,6 E 7 ANOS,Alexandre Florsz Schafhauser,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+3,FAIXA BRANCA MASCULINO,6 E 7 ANOS,Theo Dutra de Araujo Fukushima,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+3,FAIXA BRANCA MASCULINO,6 E 7 ANOS,Eduardo Malinovski,Masculino,kata,Agudos do Sul,Mesa Azul
+4,FAIXA BRANCA MASCULINO,8 E 9 ANOS,Leonardo Kleine Albers,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+5,FAIXA BRANCA MASCULINO,10 E 11 ANOS,Pietro Henrique Piquitin,Masculino,kata,Equipe Tavares,Mesa Verde
+5,FAIXA BRANCA MASCULINO,10 E 11 ANOS,Davi Schicora de Barros,Masculino,kata,Scorpion,Mesa Verde
+6,FAIXA BRANCA MASCULINO,10 E 11 ANOS,Arthur do Amaral Bonagura,Masculino,kata,Scorpion,Mesa Amarela
+6,FAIXA BRANCA MASCULINO,10 E 11 ANOS,João Miguel Jaques da Silva,Masculino,kata,Master,Mesa Amarela
+7,FAIXA BRANCA MASCULINO,10 E 11 ANOS,Thiago Felipe Skubisz,Masculino,kata,Dojô Szymanski,Mesa Verde
+8,FAIXA BRANCA MASCULINO,14 E 15 ANOS,Gabriel Lippel Salles,Masculino,kata,Master,Mesa Azul
+9,FAIXA BRANCA MASCULINO,14 E 15 ANOS,Henrique de Oliveira Laurindo,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+10,FAIXA BRANCA MASCULINO,16 E 17 ANOS,Lucas Squiba,Masculino,kata,Duellum,Mesa Verde
+10,FAIXA BRANCA MASCULINO,16 E 17 ANOS,Fábio Squiba Gonçalves,Masculino,kata,Duellum,Mesa Verde
+11,FAIXA BRANCA MASCULINO,MASTER,Breno Marçal Fukushima,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+12,FAIXA AMARELA MASCULINO,7 ANOS,Leonardo Rocha Silveira Chaek,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+12,FAIXA AMARELA MASCULINO,7 ANOS,Jackson de Oliveira Bill,Masculino,kata,Scorpion,Mesa Amarela
+13,FAIXA AMARELA MASCULINO,7 ANOS,Cezar Davi Rodrigues Zanedim,Masculino,kata,Equipe de Paula,Mesa Verde
+13,FAIXA AMARELA MASCULINO,7 ANOS,Pedro da Silva Torquato,Masculino,kata,Scorpion,Mesa Verde
+13,FAIXA AMARELA MASCULINO,7 ANOS,Bruno Lucca Franco Ferraz,Masculino,kata,Scorpion,Mesa Verde
+14,FAIXA AMARELA MASCULINO,8 E 9 ANOS,João Victor Said Pelentier,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+14,FAIXA AMARELA MASCULINO,8 E 9 ANOS,Miguel de Sá Dias,Masculino,kata,Simioni,Mesa Verde
+15,FAIXA AMARELA MASCULINO,8 E 9 ANOS,Davi Rafael Nunes Kalsing da Silva,Masculino,kata,Equipe de Paula,Mesa Amarela
+15,FAIXA AMARELA MASCULINO,8 E 9 ANOS,Anthony Naoki Mendes Hagihara,Masculino,kata,Sippel,Mesa Amarela
+16,FAIXA AMARELA MASCULINO,8 E 9 ANOS,Miguel de Albuquerque do Vale,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+16,FAIXA AMARELA MASCULINO,8 E 9 ANOS,João Victor Torres Rodrigues,Masculino,kata,Master,Mesa Amarela
+17,FAIXA AMARELA MASCULINO,10 E 11 ANOS,Lucas Meier,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+17,FAIXA AMARELA MASCULINO,10 E 11 ANOS,Pedro Henrique Padula Suzuki,Masculino,kata,Sippel,Mesa Azul
+18,FAIXA AMARELA MASCULINO,10 E 11 ANOS,Luiz Fernando Joai de Lima,Masculino,kata,Equipe Harpia,Mesa Verde
+18,FAIXA AMARELA MASCULINO,10 E 11 ANOS,Cauã Solera Ferraz da Silva,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+19,FAIXA AMARELA MASCULINO,10 E 11 ANOS,Lucas Bazanine Florencio,Masculino,kata,Scorpion,Mesa Verde
+19,FAIXA AMARELA MASCULINO,10 E 11 ANOS,Gabriel Henrique da Silva,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+20,FAIXA AMARELA MASCULINO,14 E 15 ANOS,Thaylon Gabriel Custódio Cardoso,Masculino,kata,Master,Mesa Verde
+20,FAIXA AMARELA MASCULINO,14 E 15 ANOS,Marcel Fraccaro Hensel,Masculino,kata,Scorpion,Mesa Verde
+21,FAIXA AMARELA MASCULINO,ADULTO,Felipe Shimabukuro Dos Santos,Masculino,kata,Pegasus,Mesa Amarela
+21,FAIXA AMARELA MASCULINO,ADULTO,Matheus Hideki Okamura Barbosa,Masculino,kata,Pegasus,Mesa Amarela
+22,FAIXA AMARELA MASCULINO,MASTER,Fábio Meier,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+22,FAIXA AMARELA MASCULINO,MASTER,Carlos Liller Neto,Masculino,kata,Master,Mesa Amarela
+23,FAIXA AMARELA MASCULINO,MASTER,Jackson Diógenes Neves Mourão,Masculino,kata,Equipe Mamute,Mesa Azul
+23,FAIXA AMARELA MASCULINO,MASTER,José Benedito de Carvalho,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+24,FAIXA LARANJA MASCULINO,8 E 9 ANOS,Miguel Barbosa das Graças,Masculino,kata,Scorpion,Mesa Verde
+25,FAIXA LARANJA MASCULINO,8 E 9 ANOS,Rafael Ribas Liller,Masculino,kata,Master,Mesa Amarela
+26,FAIXA LARANJA MASCULINO,12 E 13 ANOS,Arthur de Oliveira Peixe,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+26,FAIXA LARANJA MASCULINO,12 E 13 ANOS,Pedro Lopes Pinto,Masculino,kata,Equipe Ágile,Mesa Azul
+26,FAIXA LARANJA MASCULINO,12 E 13 ANOS,Luigi Soares Cosentino Loretti,Masculino,kata,Scorpion,Mesa Azul
+27,FAIXA LARANJA MASCULINO,14 E 15 ANOS,João Marcos Corrêa Cordeiro,Masculino,kata,Master,Mesa Verde
+27,FAIXA LARANJA MASCULINO,14 E 15 ANOS,Henrique Brito Oliveira,Masculino,kata,Optimus,Mesa Verde
+28,FAIXA LARANJA MASCULINO,ADULTO,Andreo Solano Amoras Lima,Masculino,kata,Equipe de Paula,Mesa Amarela
+28,FAIXA LARANJA MASCULINO,ADULTO,Aurélio Thomaz da Silva Corrêa,Masculino,kata,Master,Mesa Amarela
+29,FAIXA LARANJA MASCULINO,MASTER,Bruno José Inácio de Bomfim,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+29,FAIXA LARANJA MASCULINO,MASTER,Jefferson Larson,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+29,FAIXA LARANJA MASCULINO,MASTER,Adnilson Luis da Silva,Masculino,kata,Master,Mesa Verde
+30,FAIXA LARANJA MASCULINO,SÊNIOR,José Kusnik,Masculino,kata,Karatê Guaratuba,Mesa Azul
+31,FAIXA VERDE MASCULINO,8 E 9 ANOS,Isaque Binga Gonçalves,Masculino,kata,Karatê Guaratuba,Mesa Verde
+31,FAIXA VERDE MASCULINO,8 E 9 ANOS,Miguel de Mattos Nunes,Masculino,kata,Karatê Guaratuba,Mesa Verde
+32,FAIXA VERDE MASCULINO,10 E 11 ANOS,Pedro Henrique Romão,Masculino,kata,Scorpion,Mesa Azul
+32,FAIXA VERDE MASCULINO,10 E 11 ANOS,Gabriel Santos de Almeida,Masculino,kata,Master,Mesa Azul
+33,FAIXA VERDE MASCULINO,10 E 11 ANOS,Kauã da Silva Maia,Masculino,kata,Master,Mesa Amarela
+33,FAIXA VERDE MASCULINO,10 E 11 ANOS,Lucas Raitz dos Santos,Masculino,kata,Dojô Szymanski,Mesa Amarela
+33,FAIXA VERDE MASCULINO,10 E 11 ANOS,Miguel Gonçalves dos Santos,Masculino,kata,Master,Mesa Amarela
+34,FAIXA VERDE MASCULINO,12 E 13 ANOS,Kauã Felix Mattar,Masculino,kata,Master,Mesa Verde
+34,FAIXA VERDE MASCULINO,12 E 13 ANOS,Pyetro Rafael Santos Kupczak,Masculino,kata,Master,Mesa Verde
+35,FAIXA VERDE MASCULINO,12 E 13 ANOS,José Eduardo Cardoso de Oliveira da Luz,Masculino,kata,Agudos do Sul,Mesa Azul
+35,FAIXA VERDE MASCULINO,12 E 13 ANOS,Matheus Santos de Almeida,Masculino,kata,Master,Mesa Azul
+36,FAIXA VERDE MASCULINO,14 E 15 ANOS,Enzo Gabriel dos Santos Braguini,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+37,FAIXA VERDE MASCULINO,16 E 17 ANOS,Rickelm Savedra Mendes,Masculino,kata,Dojô Szymanski,Mesa Amarela
+38,FAIXA VERDE MASCULINO,ADULTO,Elivelton Soares de Andrade,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+38,FAIXA VERDE MASCULINO,ADULTO,Mateus Vinicius da Silva,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+39,FAIXA VERDE MASCULINO,MASTER,Renato de Andrade Machado,Masculino,kata,Equipe de Paula,Mesa Azul
+40,FAIXA ROXA MASCULINO,8 E 9 ANOS,Bryan Gavioli de Mello,Masculino,kata,Master,Mesa Verde
+41,FAIXA ROXA MASCULINO,10 E 11 ANOS,Victor César do Amaral Gonçalves,Masculino,kata,Scorpion,Mesa Amarela
+41,FAIXA ROXA MASCULINO,10 E 11 ANOS,Pedro Henrique S. Crespim dos Santos,Masculino,kata,Master,Mesa Amarela
+42,FAIXA ROXA MASCULINO,10 E 11 ANOS,Eduardo Leônidas da Silva,Masculino,kata,Pegasus,Mesa Azul
+42,FAIXA ROXA MASCULINO,10 E 11 ANOS,Henrique Rain Farias,Masculino,kata,Panda Shubu-Dô,Mesa Azul
+42,FAIXA ROXA MASCULINO,10 E 11 ANOS,Lohann Santos Anselmo,Masculino,kata,Master,Mesa Azul
+43,FAIXA ROXA MASCULINO,12 E 13 ANOS,João Matheus Lunardi Barbosa,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+43,FAIXA ROXA MASCULINO,12 E 13 ANOS,Murilo Amarante da Silveira,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+44,FAIXA ROXA MASCULINO,14 E 15 ANOS,Carlos Henrique de Oliveira Corvelo,Masculino,kata,Master,Mesa Amarela
+45,FAIXA ROXA MASCULINO,14 E 15 ANOS,Rafael Oliveira de Sá,Masculino,kata,AKSD,Mesa Amarela
+46,FAIXA ROXA MASCULINO,16 E 17 ANOS,Mateus Felipe Tzeciuk,Masculino,kata,Duellum,Mesa Azul
+47,FAIXA ROXA MASCULINO,ADULTO,Murillo do Vale Alano,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+48,FAIXA ROXA MASCULINO,MASTER,Jose Adenilson do Espírito Santo,Masculino,kata,Equipe Ágile,Mesa Verde
+48,FAIXA ROXA MASCULINO,MASTER,Cassiano Pitella Navarro,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+48,FAIXA ROXA MASCULINO,MASTER,Whide Barbosa de Assis,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+49,FAIXA MARROM MASCULINO,8 E 9 ANOS,Davi Lucca da Silva,Masculino,kata,Equipe Harpia,Mesa Amarela
+49,FAIXA MARROM MASCULINO,8 E 9 ANOS,Matheus da Graça Batista,Masculino,kata,Sippel,Mesa Amarela
+50,FAIXA MARROM MASCULINO,10 E 11 ANOS,Thiago Cardozo,Masculino,kata,Dojô São Bartolomeu,Mesa Amarela
+50,FAIXA MARROM MASCULINO,10 E 11 ANOS,Nicolas Alexandre da Silva Lavorati,Masculino,kata,Sippel,Mesa Amarela
+50,FAIXA MARROM MASCULINO,10 E 11 ANOS,Arthur Henrique Macedo,Masculino,kata,AKSD,Mesa Amarela
+51,FAIXA MARROM MASCULINO,10 E 11 ANOS,Gabriel Felippeto Henzen Grochocki,Masculino,kata,Sippel,Mesa Azul
+51,FAIXA MARROM MASCULINO,10 E 11 ANOS,Daniel Alves Miranda Araújo,Masculino,kata,Karatê Guaratuba,Mesa Azul
+51,FAIXA MARROM MASCULINO,10 E 11 ANOS,Eduardo Alves dos Santos,Masculino,kata,Master,Mesa Azul
+52,FAIXA MARROM MASCULINO,10 E 11 ANOS,Fernando Contieri Campos,Masculino,kata,Scorpion,Mesa Amarela
+52,FAIXA MARROM MASCULINO,10 E 11 ANOS,Fabrizzio Antônio Chiapetti,Masculino,kata,Equipe Harpia,Mesa Amarela
+52,FAIXA MARROM MASCULINO,10 E 11 ANOS,João Ramos Moletta,Masculino,kata,Sippel,Mesa Amarela
+53,FAIXA MARROM MASCULINO,12 E 13 ANOS,Miguel Bunning Bocchi,Masculino,kata,Sippel,Mesa Amarela
+53,FAIXA MARROM MASCULINO,12 E 13 ANOS,Kauã Alves de Oliveira Bispo,Masculino,kata,Scorpion,Mesa Amarela
+54,FAIXA MARROM MASCULINO,12 E 13 ANOS,Abner Medeiros Bathke,Masculino,kata,Scorpion,Mesa Verde
+54,FAIXA MARROM MASCULINO,12 E 13 ANOS,Otávio Squiba dos Santos,Masculino,kata,Duellum,Mesa Verde
+55,FAIXA MARROM MASCULINO,12 E 13 ANOS,Miguel da Cunha Tavares,Masculino,kata,Master,Mesa Verde
+55,FAIXA MARROM MASCULINO,12 E 13 ANOS,Kelvin Gabriel Rozendo de Paula,Masculino,kata,Scorpion,Mesa Verde
+56,FAIXA MARROM MASCULINO,12 E 13 ANOS,Davi Barbosa das Graças,Masculino,kata,Scorpion,Mesa Amarela
+56,FAIXA MARROM MASCULINO,12 E 13 ANOS,Diego Alejandro Sánchez Escobar,Masculino,kata,Equipe de Paula,Mesa Amarela
+57,FAIXA MARROM MASCULINO,12 E 13 ANOS,Walace Ferreira Pires,Masculino,kata,Panda Shubu-Dô,Mesa Verde
+57,FAIXA MARROM MASCULINO,12 E 13 ANOS,Cristopher Miguel da Silva,Masculino,kata,Master,Mesa Verde
+58,FAIXA MARROM MASCULINO,12 E 13 ANOS,Lorenzo Teixeira Guilherme,Masculino,kata,Sippel,Mesa Azul
+58,FAIXA MARROM MASCULINO,12 E 13 ANOS,Heitor de Camargo Titski,Masculino,kata,Panda Shubu-Dô,Mesa Azul
+59,FAIXA MARROM MASCULINO,12 E 13 ANOS,Pedro Henrique Graeff,Masculino,kata,Panda Shubu-Dô,Mesa Verde
+59,FAIXA MARROM MASCULINO,12 E 13 ANOS,Andreas Samuel Denega Wolinski,Masculino,kata,Master Problema Auditivo,Mesa Verde
+60,FAIXA MARROM MASCULINO,14 E 15 ANOS,Pedro Henrique Gonçalves Franco,Masculino,kata,AKSD,Mesa Verde
+60,FAIXA MARROM MASCULINO,14 E 15 ANOS,Eduardo Lucio Cristo de Oliveira,Masculino,kata,Scorpion,Mesa Verde
+61,FAIXA MARROM MASCULINO,14 E 15 ANOS,Lucas Ferreira Anjos,Masculino,kata,Scorpion,Mesa Amarela
+61,FAIXA MARROM MASCULINO,14 E 15 ANOS,Vinicius Augusto Bonatti,Masculino,kata,Dojô São Bartolomeu,Mesa Amarela
+62,FAIXA MARROM MASCULINO,16 E 17 ANOS,Gabriel Henrique Souza de Paula,Masculino,kata,ESIC,Mesa Verde
+62,FAIXA MARROM MASCULINO,16 E 17 ANOS,Victor Leo Ferreira de Lima,Masculino,kata,Agudos do Sul,Mesa Verde
+62,FAIXA MARROM MASCULINO,16 E 17 ANOS,Antonio Samuel Cavalheiro,Masculino,kata,Duellum,Mesa Verde
+63,FAIXA MARROM MASCULINO,ADULTO,Thalison Eduardo Stakiu,Masculino,kata,Equipe Ágile,Mesa Amarela
+63,FAIXA MARROM MASCULINO,ADULTO,Guilherme Bryann Otto Machado,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+64,FAIXA MARROM MASCULINO,ADULTO,Jacó Luiz Chandeski,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+64,FAIXA MARROM MASCULINO,ADULTO,Gabryel Polidoro,Masculino,kata,Master,Mesa Azul
+65,FAIXA MARROM MASCULINO,SÊNIOR,Carlos Alberto Pereira Goulart,Masculino,kata,Scorpion,Mesa Verde
+65,FAIXA MARROM MASCULINO,SÊNIOR,Pedro Luis de Carvalho,Masculino,kata,Top Moviment,Mesa Verde
+66,FAIXA PRETA 1º DAN MASCULINO,MASTER,Arthur Leonardo Brustring Cruz,Masculino,kata,Master,Mesa Verde
+67,FAIXA PRETA 1º DAN MASCULINO,SÊNIOR,Alberto Pereira,Masculino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+68,FAIXA PRETA 2º DAN MASCULINO,ADULTO,João Márcio Sales,Masculino,kata,AKSD,Mesa Azul
+69,FAIXA PRETA 3º DAN MASCULINO,ADULTO,Felipe Tavares da Silva,Masculino,kata,Equipe Tavares,Mesa Verde
+70,FAIXA PRETA 4º DAN MASCULINO,ADULTO,Henrique Gabriel Lenzi,Masculino,kata,Pegasus,Mesa Amarela
+70,FAIXA PRETA 4º DAN MASCULINO,ADULTO,Felipe Ribeiro,Masculino,kata,Equipe Ares,Mesa Amarela
+71,FAIXA PRETA 4º DAN MASCULINO,ADULTO,Ramon Jacopetti Pszedimirski,Masculino,kata,Equipe Ágile,Mesa Azul
+71,FAIXA PRETA 4º DAN MASCULINO,ADULTO,Lucas Lourenço Lopes,Masculino,kata,Panda Shubu-Dô,Mesa Azul
+72,MESTRE 5º DAN MASCULINO,ADULTO,Marcos Vinicius Ferronatto,Masculino,kata,Duellum,Mesa Amarela
+73,MESTRE 6º DAN MASCULINO,ADULTO,Maurício Santos de Paula Júnior,Masculino,kata,Equipe de Paula,Mesa Azul
+74,MESTRE 6º DAN MASCULINO,MASTER,Valdir Nunes Filho,Masculino,kata,Karatê Guaratuba,Mesa Verde
+75,FAIXA BRANCA FEMININO,"3, 4 E 5 ANOS",Maitê Vasques Kmiecik,Feminino,kata,Equipe The Family,Mesa Azul
+76,FAIXA BRANCA FEMININO,6 E 7 ANOS,Lorena Manuely de Lima,Feminino,kata,Agudos do Sul,Mesa Verde
+76,FAIXA BRANCA FEMININO,6 E 7 ANOS,Isadora Takeuti Vargas,Feminino,kata,Dojô São Bartolomeu,Mesa Verde
+77,FAIXA BRANCA FEMININO,8 E 9 ANOS,Angeline Ribeiro Bonatto,Feminino,kata,Agudos do Sul,Mesa Verde
+77,FAIXA BRANCA FEMININO,8 E 9 ANOS,Alice Yumi Da Silva,Feminino,kata,Scorpion,Mesa Verde
+78,FAIXA BRANCA FEMININO,10 E 11 ANOS,Emanuelle do Amaral Bonagura,Feminino,kata,Scorpion,Mesa Amarela
+78,FAIXA BRANCA FEMININO,10 E 11 ANOS,Maria Clara Scheffer Polato,Feminino,kata,Dojô São Bartolomeu,Mesa Amarela
+79,FAIXA BRANCA FEMININO,12 E 13 ANOS,Agatha Victoria correia Popoaski Martins,Feminino,kata,Scorpion,Mesa Verde
+80,FAIXA BRANCA FEMININO,14 E 15 ANOS,Izabelly Martins da Silva,Feminino,kata,Equipe Tavares,Mesa Amarela
+81,FAIXA BRANCA FEMININO,16 E 17 ANOS,Gabriela Brodowski Andrade dos Santos,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+82,FAIXA BRANCA FEMININO,ADULTO,Stefany dos Santos Xavier de Bomfim,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+83,FAIXA BRANCA FEMININO,MASTER,Vanessa do Amaral,Feminino,kata,Scorpion,Mesa Amarela
+84,FAIXA AMARELA FEMININO,7 ANOS,Helena Sampaio da Rosa,Feminino,kata,Master,Mesa Azul
+84,FAIXA AMARELA FEMININO,7 ANOS,Lívia Gelinski,Feminino,kata,Panda Shubu-Dô,Mesa Azul
+85,FAIXA AMARELA FEMININO,8 E 9 ANOS,Alice Ferreira Yamada,Feminino,kata,Equipe Mamute,Mesa Azul
+85,FAIXA AMARELA FEMININO,8 E 9 ANOS,Nicoly Pich Brenaz,Feminino,kata,Master,Mesa Azul
+86,FAIXA AMARELA FEMININO,8 E 9 ANOS,Isabelli Letícia Jungles Guollo,Feminino,kata,Simioni,Mesa Verde
+86,FAIXA AMARELA FEMININO,8 E 9 ANOS,Maria Clara Sacramento Praxedes,Feminino,kata,Equipe Jetam,Mesa Verde
+87,FAIXA AMARELA FEMININO,10 E 11 ANOS,Paola Gabriela Cordeiro Anastácio,Feminino,kata,Master,Mesa Amarela
+88,FAIXA AMARELA FEMININO,12 E 13 ANOS,Maria Cecilia Sacramento Praxedes,Feminino,kata,Equipe Jetam,Mesa Verde
+88,FAIXA AMARELA FEMININO,12 E 13 ANOS,Mariah Nascimento Jaques,Feminino,kata,Master,Mesa Verde
+88,FAIXA AMARELA FEMININO,12 E 13 ANOS,Valentina Voi Gori,Feminino,kata,Master,Mesa Verde
+89,FAIXA AMARELA FEMININO,ADULTO,Maiara Christine Macagnan,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+89,FAIXA AMARELA FEMININO,ADULTO,Débora Farias Binga,Feminino,kata,Karatê Guaratuba,Mesa Azul
+89,FAIXA AMARELA FEMININO,ADULTO,Laísa Machado Gelinski,Feminino,kata,Panda Shubu-Dô,Mesa Azul
+90,FAIXA AMARELA FEMININO,MASTER,Elaine Solera,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+90,FAIXA AMARELA FEMININO,MASTER,Lidiane Ribeiro da Silva,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+91,FAIXA LARANJA FEMININO,6 E 7 ANOS,Lívia Giacomini Coelho,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+92,FAIXA LARANJA FEMININO,10 E 11 ANOS,Letícia Pereira Navarro,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+92,FAIXA LARANJA FEMININO,10 E 11 ANOS,Júlia Santana Perez,Feminino,kata,Scorpion,Mesa Azul
+93,FAIXA LARANJA FEMININO,10 E 11 ANOS,Nathaly Letícia Pereira,Feminino,kata,Scorpion,Mesa Azul
+93,FAIXA LARANJA FEMININO,10 E 11 ANOS,Ariely Sophie Xavier de Bomfim,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+93,FAIXA LARANJA FEMININO,10 E 11 ANOS,Coraline Engels,Feminino,kata,Scorpion,Mesa Azul
+94,FAIXA LARANJA FEMININO,12 E 13 ANOS,Laura Santos Ponciano,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+95,FAIXA LARANJA FEMININO,16 E 17 ANOS,Alana Dias da Cruz,Feminino,kata,Equipe Jetam,Mesa Verde
+96,FAIXA LARANJA FEMININO,SÊNIOR,Elisangela Aparecida Lopes Pinto,Feminino,kata,Equipe Ágile,Mesa Azul
+97,FAIXA VERDE FEMININO,8 E 9 ANOS,Beatriz Florsz Schafhauser,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+97,FAIXA VERDE FEMININO,8 E 9 ANOS,Celina Dias da Cruz,Feminino,kata,Equipe Jetam,Mesa Azul
+98,FAIXA VERDE FEMININO,10 E 11 ANOS,Fernanda Silva de Souza,Feminino,kata,Master,Mesa Amarela
+99,FAIXA VERDE FEMININO,12 E 13 ANOS,Lara Elena Ribeiro Cordeiro,Feminino,kata,Equipe The Family,Mesa Azul
+99,FAIXA VERDE FEMININO,12 E 13 ANOS,Lavínea Gotardo Pereira da Silva,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+99,FAIXA VERDE FEMININO,12 E 13 ANOS,Júlia Alves França,Feminino,kata,Karatê Guaratuba,Mesa Azul
+100,FAIXA VERDE FEMININO,16 E 17 ANOS,Catherina Berlim Doornhein,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+101,FAIXA VERDE FEMININO,MASTER,Priscila Gritten Sieben,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+102,FAIXA VERDE FEMININO,SÊNIOR,Manuella Gebran Dallegrave,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+102,FAIXA VERDE FEMININO,SÊNIOR,Marilene Rogowski,Feminino,kata,Equipe Jetam,Mesa Verde
+103,FAIXA ROXA FEMININO,8 E 9 ANOS,Sophia Campiol Fernandes,Feminino,kata,Sippel,Mesa Verde
+103,FAIXA ROXA FEMININO,8 E 9 ANOS,Luiza dos Santos Bolognezi,Feminino,kata,Scorpion,Mesa Verde
+104,FAIXA ROXA FEMININO,10 E 11 ANOS,Raíssa Ferraz Riola,Feminino,kata,Scorpion,Mesa Amarela
+104,FAIXA ROXA FEMININO,10 E 11 ANOS,Vallentina Perez de Assis,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+105,FAIXA ROXA FEMININO,10 E 11 ANOS,Nicolly Lais Bagio Cloches da Silva,Feminino,kata,Dojô Szymanski,Mesa Amarela
+105,FAIXA ROXA FEMININO,10 E 11 ANOS,Rayanne Ferraz Goiz,Feminino,kata,Scorpion,Mesa Amarela
+106,FAIXA ROXA FEMININO,10 E 11 ANOS,Emanuelly Cristina D. de Melo Aragão,Feminino,kata,Equipe Harpia,Mesa Azul
+106,FAIXA ROXA FEMININO,10 E 11 ANOS,Maia Lucas Alvarenga,Feminino,kata,Sippel,Mesa Azul
+107,FAIXA ROXA FEMININO,12 E 13 ANOS,Sophia da Silva Lazzarotto de Freitas,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+108,FAIXA ROXA FEMININO,ADULTO,Gabriele Maria Paulin Ferreira,Feminino,kata,Equipe de Paula,Mesa Azul
+109,FAIXA MARROM FEMININO,6 E 7 ANOS,Sophie Jéss Rocha,Feminino,kata,Sippel,Mesa Azul
+110,FAIXA MARROM FEMININO,8 E 9 ANOS,Ana Carolina Ribeiro dos Santos,Feminino,kata,Equipe The Family,Mesa Amarela
+110,FAIXA MARROM FEMININO,8 E 9 ANOS,Emanuelly Vitória Barbosa de Oliveira,Feminino,kata,Dojô Kyojin,Mesa Amarela
+111,FAIXA MARROM FEMININO,10 E 11 ANOS,Vitória Koltun Teixeira da Silva,Feminino,kata,Scorpion,Mesa Amarela
+111,FAIXA MARROM FEMININO,10 E 11 ANOS,Sofia Gomes Santos,Feminino,kata,Karatê Guaratuba,Mesa Amarela
+112,FAIXA MARROM FEMININO,10 E 11 ANOS,Giulia Lino Peres Lopes,Feminino,kata,Pegasus,Mesa Azul
+112,FAIXA MARROM FEMININO,10 E 11 ANOS,Pietra Pereira da Rocha,Feminino,kata,Sippel,Mesa Azul
+113,FAIXA MARROM FEMININO,12 E 13 ANOS,Vitória Liz Felisbino da Silveira,Feminino,kata,Sippel,Mesa Azul
+113,FAIXA MARROM FEMININO,12 E 13 ANOS,Allyce dos Santos Brustring Cruz,Feminino,kata,Master,Mesa Azul
+113,FAIXA MARROM FEMININO,12 E 13 ANOS,Laura Elisa Simioni Vieira,Feminino,kata,Simioni,Mesa Azul
+114,FAIXA MARROM FEMININO,12 E 13 ANOS,Isabella de Oliveira,Feminino,kata,Equipe Harpia,Mesa Amarela
+114,FAIXA MARROM FEMININO,12 E 13 ANOS,Lara Ribeiro dos Santos,Feminino,kata,Scorpion,Mesa Amarela
+114,FAIXA MARROM FEMININO,12 E 13 ANOS,Manuela de Carvalho Ochiai,Feminino,kata,Sippel,Mesa Amarela
+115,FAIXA MARROM FEMININO,12 E 13 ANOS,Maria Eduarda Miotto de Andrade,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+115,FAIXA MARROM FEMININO,12 E 13 ANOS,Heloise Eckermann da Silva,Feminino,kata,Sippel,Mesa Amarela
+115,FAIXA MARROM FEMININO,12 E 13 ANOS,Beatriz Dalla Vecchia de Campos,Feminino,kata,Dojô São Bartolomeu,Mesa Amarela
+116,FAIXA MARROM FEMININO,14 E 15 ANOS,Maria Luisa da Silva Nunes,Feminino,kata,Master,Mesa Verde
+116,FAIXA MARROM FEMININO,14 E 15 ANOS,Nathaly Malko Barankievicz,Feminino,kata,AKSD,Mesa Verde
+117,FAIXA MARROM FEMININO,14 E 15 ANOS,Heloany Kafka Varela,Feminino,kata,Scorpion,Mesa Azul
+117,FAIXA MARROM FEMININO,14 E 15 ANOS,Nickole Liah dos Santos Coelho,Feminino,kata,Master,Mesa Azul
+118,FAIXA MARROM FEMININO,16 E 17 ANOS,Michelly Beatriz Fogaça Nazario,Feminino,kata,Scorpion,Mesa Azul
+119,FAIXA MARROM FEMININO,ADULTO,Maria Helena Mocellin Kakuta,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+119,FAIXA MARROM FEMININO,ADULTO,Thais de Carlos Richter,Feminino,kata,Master,Mesa Amarela
+120,FAIXA MARROM FEMININO,ADULTO,Brenda de Lima Siqueira,Feminino,kata,Master,Mesa Azul
+120,FAIXA MARROM FEMININO,ADULTO,Fernanda Carolina Rosa Delta Tavares,Feminino,kata,Scorpion,Mesa Azul
+121,FAIXA MARROM FEMININO,MASTER,Louise Caroline de Freitas Giacomini,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+122,FAIXA MARROM FEMININO,SÊNIOR,Eliane Miotto de Andrade,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+123,FAIXA PRETA FEMININO,14 E 15 ANOS,Camille Bartoski de Vargas,Feminino,kata,Sippel,Mesa Azul
+123,FAIXA PRETA FEMININO,14 E 15 ANOS,Maria Eduarda dos Santos Bolognezi,Feminino,kata,Scorpion,Mesa Azul
+124,FAIXA PRETA FEMININO,16 E 17 ANOS,Kauanny Vitória Ap. Masba dos Santos,Feminino,kata,AKSD,Mesa Amarela
+125,FAIXA PRETA FEMININO,12 E 13 ANOS,Mariana Lenzi,Feminino,kata,Sippel,Mesa Azul
+126,FAIXA PRETA 2º DAN FEMININO,MASTER,Aline Aparecida Florsz Schafhauser,Feminino,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+127,FAIXA BRANCA,,Breno Fukushima e Theo Dutra Fukushima,,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+127,FAIXA BRANCA,,Lucas Squiba e Fábio Squiba Gonçalves,,kata,Duellum,Mesa Azul
+128,FAIXA AMARELA,GRUPO A,Laísa Machado Gelinski e Lívia Gelinski,,kata,Panda Shubu-Dô,Mesa Azul
+128,FAIXA AMARELA,GRUPO A,"Elaine, Maiara e Lidiane",,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+128,FAIXA AMARELA,GRUPO A,Matheus Barbosa e Felipe dos Santos,,kata,Pegasus,Mesa Azul
+129,FAIXA AMARELA,GRUPO B,Miguel do Vale e Leonardo Silveira Chaek,,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+129,FAIXA AMARELA,GRUPO B,João Victor Rodrigues e Paola Gabriela,,kata,Master,Mesa Amarela
+130,FAIXA AMARELA,GRUPO C,Maria Cecilia e Maria Clara Praxedes,,kata,Equipe Jetam,Mesa Verde
+130,FAIXA AMARELA,GRUPO C,Cauã Solera da Silva e Gabriel da Silva,,kata,Mestre Sydney – CDL/Shogun Team,Mesa Verde
+131,FAIXA LARANJA,,Nathaly Letícia e Pietro Machado,,kata,Scorpion,Mesa Verde
+132,FAIXA VERDE,GRUPO A,Lara Elena e Lohana Vitória,,kata,Equipe The Family,Mesa Verde
+132,FAIXA VERDE,GRUPO A,Matheus e Gabriel Santos de Almeida,,kata,Master,Mesa Verde
+133,FAIXA VERDE,GRUPO B,Gustavo Henrique S. Cosa e Alexia Leite,,kata,Panda Shubu-Dô,Mesa Amarela
+133,FAIXA VERDE,GRUPO B,Elivelton de Andrade e Mateus V. da Silva,,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+134,FAIXA ROXA,GRUPO A,Raíssa Ferraz Riola e Rayane Ferraz Goes,,kata,Scorpion,Mesa Amarela
+135,FAIXA ROXA,GRUPO B,Acauane Rodrigues e Thahyri Del Carmen,,kata,Equipe de Paula,Mesa Amarela
+136,FAIXA MARROM,GRUPO A,Márcia das Graças e Carlos Alberto,,kata,Scorpion,Mesa Amarela
+136,FAIXA MARROM,GRUPO A,Louise Giacomini e Eliane Miotto,,kata,Mestre Sydney – CDL/Shogun Team,Mesa Amarela
+137,FAIXA MARROM,GRUPO B,Andre Prigol Petters e Thalison,,kata,Equipe Ágile,Mesa Azul
+137,FAIXA MARROM,GRUPO B,Guilherme Bryann e Maria Eduarda Miotto,,kata,Mestre Sydney – CDL/Shogun Team,Mesa Azul
+138,FAIXA MARROM,GRUPO C,Heloany Kafka Varela e Michelly Nazário,,kata,Scorpion,Mesa Azul
+138,FAIXA MARROM,GRUPO C,Antonio Samuel e Otávio Squiba dos Santos,,kata,Duellum,Mesa Azul
+139,FAIXA MARROM,GRUPO D,Heitor e Otávio de Camargo Titski,,kata,Panda Shubu-Dô,Mesa Verde
+139,FAIXA MARROM,GRUPO D,Kelly Eloena e Ygor Miguel,,kata,Scorpion,Mesa Verde
+140,FAIXA MARROM,GRUPO E,Lorenzo Guilherme e Pietra da Rocha,,kata,Sippel,Mesa Amarela
+140,FAIXA MARROM,GRUPO E,"Vitória, Davi das Graças e Lara Ribeiro",,kata,Scorpion,Mesa Amarela
+141,FAIXA MARROM,GRUPO F,Abner Bathke e Kelvin Gabriel de Paula,,kata,Scorpion,Mesa Azul
+141,FAIXA MARROM,GRUPO F,Pedro Henrique Graeff e Walace Ferreira,,kata,Panda Shubu-Dô,Mesa Azul
+142,FAIXA MARROM,GRUPO G,Nicolas Alexandre Lavorati e João Moletta,,kata,Sippel,Mesa Verde
+142,FAIXA MARROM,GRUPO G,Thiago Cardozo e Beatriz de Campos,,kata,Dojô São Bartolomeu,Mesa Verde
+143,FAIXA PRETA,,Camille Bartoski de Vargas e Mariana Lenzi,,kata,Sippel,Mesa Verde
+61,,8 ANOS,Eduarda Henrique,Feminino,luta,Karatê Guaratuba,TATAME 1
+61,,8 ANOS,Sarah Valentina do Carmo,Feminino,luta,Simioni,TATAME 1
+62,FAIXA MARROM FEMININO,8 ANOS,Emanuelly Vitória Barbosa de Oliveira,Feminino,luta,Dojô Kyojin,TATAME 2
+62,,8 ANOS,Elisabeth Vechi,Feminino,luta,Simioni,TATAME 2
+63,,9 ANOS,Sofia Catarina Ribeiro Cordeiro,Feminino,luta,Equipe The Family,TATAME 3
+63,FAIXA ROXA FEMININO,9 ANOS,Luiza dos Santos Bolognezi,Feminino,luta,Scorpion,TATAME 3
+64,,10 E 11 ANOS,Julia Beatriz Simioni Vieira,Feminino,luta,Simioni,TATAME 1
+64,FAIXA ROXA FEMININO,10 E 11 ANOS,Rayanne Ferraz Goiz,Feminino,luta,Scorpion,TATAME 1
+64,,10 E 11 ANOS,Beatriz Voi Vicente,Feminino,luta,Optimus,TATAME 1
+65,FAIXA VERDE FEMININO,10 ANOS,Fernanda Silva de Souza,Feminino,luta,Master,TATAME 2
+65,FAIXA MARROM FEMININO,10 ANOS,Vitória Koltun Teixeira da Silva,Feminino,luta,Scorpion,TATAME 2
+66,,10 ANOS,Betina Mendes Barbosa,Feminino,luta,Simioni,TATAME 1
+66,,10 ANOS,Livia Rodrigues de Andrade,Feminino,luta,Karatê Guaratuba,TATAME 1
+67,,10 ANOS,Maria Beatriz Dropa Passine,Feminino,luta,Simioni,TATAME 2
+67,,10 ANOS,Julia Beatriz da Silva,Feminino,luta,Neves Fight,TATAME 2
+67,,10 ANOS,Eloisa Martins Carvalho,Feminino,luta,Professor Márcio,TATAME 2
+68,FAIXA ROXA FEMININO,11 ANOS,Emanuelly Cristina D. de Melo Aragão,Feminino,luta,Equipe Harpia,TATAME 3
+68,,11 ANOS,Lorena Alexandre Ranciaro,Feminino,luta,Karatê Guaratuba,TATAME 3
+69,,11 ANOS,Allana Schneider Assunção,Feminino,luta,Simioni,TATAME 1
+69,,11 ANOS,Isabelly Oliveira dos Santos,Feminino,luta,Neves Fight,TATAME 1
+70,FAIXA LARANJA FEMININO,11 ANOS,Nathaly Letícia Pereira,Feminino,luta,Scorpion,TATAME 3
+70,,11 ANOS,Alice Toledo Mendonça,Feminino,luta,Karatê Guaratuba,TATAME 3
+70,,11 ANOS,Pietra Vitoria Rodrigues,Feminino,luta,Neves Fight,TATAME 3
+71,FAIXA ROXA FEMININO,11 ANOS,Raíssa Ferraz Riola,Feminino,luta,Scorpion,TATAME 2
+71,,11 ANOS,Ayla Simões Pereira,Feminino,luta,Karatê Guaratuba,TATAME 2
+72,FAIXA MARROM FEMININO,11 E 12 ANOS,Laura Elisa Simioni Vieira,Feminino,luta,Simioni,TATAME 3
+72,FAIXA ROXA FEMININO,11 E 12 ANOS,Vallentina Perez de Assis,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+73,,12 ANOS,Heshley Christiny Amorim Damaceno,Feminino,luta,Karatê Guaratuba,TATAME 1
+73,FAIXA MARROM FEMININO,12 ANOS,Lara Ribeiro dos Santos,Feminino,luta,Scorpion,TATAME 1
+74,FAIXA VERDE FEMININO,12 ANOS,Lavínea Gotardo Pereira da Silva,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 2
+74,,12 ANOS,Ana Julia de Andrade Tineu,Feminino,luta,Simioni,TATAME 2
+75,FAIXA MARROM FEMININO,12 ANOS,Allyce dos Santos Brustring Cruz,Feminino,luta,Master,TATAME 1
+75,,12 ANOS,Ana Julia Grande,Feminino,luta,Dojô São Bartolomeu,TATAME 1
+75,,12 ANOS,Ane Manuelle Amarilho Andersen,Feminino,luta,Top Moviment,TATAME 1
+76,,12 ANOS,Gabriela Ribeiro,Feminino,luta,AKSD,TATAME 3
+76,FAIXA MARROM FEMININO,12 ANOS,Isabella de Oliveira,Feminino,luta,Equipe Harpia,TATAME 3
+77,,12 ANOS,Laura Storrer,Feminino,luta,Scorpion,TATAME 1
+77,FAIXA VERDE FEMININO,12 ANOS,Júlia Alves França,Feminino,luta,Karatê Guaratuba,TATAME 1
+78,,13 ANOS,Sofia Emanuelle Dutra Martins,Feminino,luta,Karatê Guaratuba,TATAME 2
+78,,13 ANOS,Isabela Souza de Oliveira,Feminino,luta,Simioni,TATAME 2
+79,,13 E 14 ANOS,Laura Emanuelle Dutra Martins,Feminino,luta,Karatê Guaratuba,TATAME 3
+79,,13 E 14 ANOS,Yasmin Correia Aksman,Feminino,luta,Dojô São Bartolomeu,TATAME 3
+80,FAIXA MARROM FEMININO,13 ANOS,Maria Eduarda Miotto de Andrade,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+80,,13 ANOS,Paola Negrello de Melo,Feminino,luta,Top Moviment,TATAME 3
+81,,14 ANOS,Sophia Estefani dos Santos,Feminino,luta,Equipe Harpia,TATAME 3
+81,FAIXA MARROM FEMININO,14 ANOS,Maria Luisa da Silva Nunes,Feminino,luta,Master,TATAME 3
+82,,14 ANOS,Nicolly Carvalho da Silva,Feminino,luta,Master,TATAME 2
+82,,14 ANOS,Luisa da Silva Teles,Feminino,luta,Simioni,TATAME 2
+82,,14 ANOS,Izabela Tammy Ishii,Feminino,luta,Master,TATAME 2
+83,,14 ANOS,Rafaela Jaremczuk Barboza,Feminino,luta,Simioni,TATAME 1
+83,,14 ANOS,Laniely Dybas Lopes,Feminino,luta,Simioni,TATAME 1
+84,FAIXA MARROM FEMININO,15 ANOS,Heloany Kafka Varela,Feminino,luta,Scorpion,TATAME 1
+85,FAIXA MARROM FEMININO,16 ANOS,Michelly Beatriz Fogaça Nazario,Feminino,luta,Scorpion,TATAME 2
+85,,16 ANOS,Loriane Oliveira de Lima,Feminino,luta,Panda Shubu-Dô,TATAME 2
+86,,17 ANOS,Isabel Vitória Alves,Feminino,luta,Scorpion,TATAME 3
+86,FAIXA VERDE FEMININO,17 ANOS,Catherina Berlim Doornhein,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+86,,17 ANOS,Kaylane Stella,Feminino,luta,Dojô São Bartolomeu,TATAME 3
+87,FAIXA MARROM FEMININO,GALO,Brenda de Lima Siqueira,Feminino,luta,Master,TATAME 3
+87,,GALO,Kerolyn Aísha dos Santos Heymowski,Feminino,luta,Scorpion,TATAME 3
+88,,PLUMA,Carolini de Lima,Feminino,luta,Neves Fight,TATAME 3
+88,,PLUMA,Adrielle Katrycia Bigochinski,Feminino,luta,Duellum,TATAME 3
+89,,LEVE,Acauane Rodrigues,Feminino,luta,Equipe de Paula,TATAME 2
+89,FAIXA MARROM FEMININO,LEVE,Fernanda Carolina Rosa Delta Tavares,Feminino,luta,Scorpion,TATAME 2
+90,,PLUMA,Cristiane Branco de Oliveira Bill,Feminino,luta,AKSD,TATAME 3
+90,,PLUMA,Márcia Aparecida Barbosa das Graças,Feminino,luta,Scorpion,TATAME 3
+91,,MEIO MÉDIO,Angelita Izidoro Gonçalves Flores,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+91,FAIXA VERDE FEMININO,MEIO MÉDIO,Manuella Gebran Dallegrave,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+92,FAIXA VERDE FEMININO,MEIO PESADO,Priscila Gritten Sieben,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+92,FAIXA MARROM FEMININO,MEIO PESADO,Eliane Miotto de Andrade,Feminino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+1,,8 ANOS,Matheus Guilherme Scheleiam G. da Silva,Masculino,luta,Scorpion,TATAME 1
+1,,8 ANOS,Bernardo Luiz Futema Baffa,Masculino,luta,Scorpion,TATAME 1
+2,,8 ANOS,Lorenzo Florenzano,Masculino,luta,Simioni,TATAME 2
+2,,8 ANOS,Ricardo dos Santos Kienteka,Masculino,luta,Scorpion,TATAME 2
+3,FAIXA VERDE MASCULINO,8 ANOS,Isaque Binga Gonçalves,Masculino,luta,Karatê Guaratuba,TATAME 1
+4,FAIXA VERDE MASCULINO,8 ANOS,Miguel de Mattos Nunes,Masculino,luta,Karatê Guaratuba,TATAME 2
+5,FAIXA LARANJA MASCULINO,8 E 9 ANOS,Rafael Ribas Liller,Masculino,luta,Master,TATAME 3
+5,FAIXA ROXA MASCULINO,8 E 9 ANOS,Bryan Gavioli de Mello,Masculino,luta,Master,TATAME 3
+6,FAIXA LARANJA MASCULINO,9 ANOS,Miguel Barbosa das Graças,Masculino,luta,Scorpion,TATAME 3
+6,,9 ANOS,Artur Muller,Masculino,luta,Scorpion,TATAME 3
+7,,9 ANOS,Matheus V. Caetano Amaral,Masculino,luta,AKSD,TATAME 1
+7,,9 ANOS,Mestre Jean,Masculino,luta,AKSD,TATAME 1
+8,,9 ANOS,Aarón Fernando Ochoa Navarro,Masculino,luta,Karatê Guaratuba,TATAME 1
+8,,9 ANOS,Pedro Miguel dos Santos Belmiro,Masculino,luta,Neves Fight,TATAME 1
+9,FAIXA MARROM MASCULINO,9 ANOS,Davi Lucca da Silva,Masculino,luta,Equipe Harpia,TATAME 2
+9,,9 ANOS,Enzo U. Camargo,Masculino,luta,Scorpion,TATAME 2
+10,,10 ANOS,Mateus Marques Gritten da Silva,Masculino,luta,Scorpion,TATAME 3
+10,FAIXA ROXA MASCULINO,10 ANOS,Henrique Rain Farias,Masculino,luta,Panda Shubu-Dô,TATAME 3
+11,,9 E 10 ANOS,Vittor Gabriel França Viana,Masculino,luta,Neves Fight,TATAME 1
+11,,9 E 10 ANOS,Paulo Cesar Chaves de Oliveira,Masculino,luta,Neves Fight,TATAME 1
+11,,9 E 10 ANOS,Lucas Caleb Buer Silveira,Masculino,luta,Dojô São Bartolomeu,TATAME 1
+12,FAIXA VERDE MASCULINO,10 ANOS,Gabriel Santos de Almeida,Masculino,luta,Master,TATAME 1
+12,,10 ANOS,Arthur Volochen Menezes,Masculino,luta,Neves Fight,TATAME 1
+13,,10 ANOS,Kevin Dominic Gasparotto Rodrigues,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 2
+13,,10 ANOS,Daniel Queiroz Gimenes,Masculino,luta,Karatê Guaratuba,TATAME 2
+14,,10 E 11 ANOS,Lorenzo Venturelli Bruning,Masculino,luta,Equipe Mamute,TATAME 3
+14,,10 E 11 ANOS,Diego Andrade Santos,Masculino,luta,Scorpion,TATAME 3
+15,,10 ANOS,Elias Augusto Terra Gavlovski,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+15,,10 ANOS,Arthur Ricardo Marques,Masculino,luta,Master,TATAME 1
+16,FAIXA VERDE MASCULINO,10 ANOS,Miguel Gonçalves dos Santos,Masculino,luta,Master,TATAME 2
+16,,10 ANOS,Luiz Fernando Vitorino Santana,Masculino,luta,Professor Márcio,TATAME 2
+17,FAIXA VERDE MASCULINO,11 E 12 ANOS,José Eduardo Cardoso de Oliveira da Luz,Masculino,luta,Agudos do Sul,TATAME 2
+17,,11 E 12 ANOS,Noah Cabral Dietrich,Masculino,luta,Duellum,TATAME 2
+17,,11 E 12 ANOS,Vinícius Do Prado De Oliveira,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 2
+18,FAIXA ROXA MASCULINO,11 ANOS,Pedro Henrique S. Crespim dos Santos,Masculino,luta,Master,TATAME 3
+18,,11 ANOS,Pietro Henrique Machado Latenek,Masculino,luta,Scorpion,TATAME 3
+19,FAIXA MARROM MASCULINO,11 ANOS,Arthur Henrique Macedo,Masculino,luta,AKSD,TATAME 3
+20,,11 ANOS,Samuel Alves Miranda Araújo,Masculino,luta,Karatê Guaratuba,TATAME 2
+20,,11 ANOS,Tomás Negrello de Melo,Masculino,luta,Top Moviment,TATAME 2
+20,,11 ANOS,Miguel Alves Miranda Araújo,Masculino,luta,Karatê Guaratuba,TATAME 2
+21,,11 ANOS,Henrique Gabriel Gonçalves Flores,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+21,,11 ANOS,Davi Queiroz Gimenes,Masculino,luta,Karatê Guaratuba,TATAME 1
+21,FAIXA MARROM MASCULINO,11 ANOS,Fernando Contieri Campos,Masculino,luta,Scorpion,TATAME 1
+22,,11 ANOS,João Gabriel da Silva Freitas Tavares,Masculino,luta,Professor Márcio,TATAME 3
+22,,11 ANOS,Ygor Miguel do Espírito Santo,Masculino,luta,Scorpion,TATAME 3
+22,,11 ANOS,Davi de Melo Ferreira,Masculino,luta,Dojô São Bartolomeu,TATAME 3
+23,,11 ANOS,Davi Ferraz Wilczecke,Masculino,luta,AKSD,TATAME 3
+23,FAIXA VERDE MASCULINO,11 ANOS,Kauã da Silva Maia,Masculino,luta,Master,TATAME 3
+23,FAIXA ROXA MASCULINO,11 ANOS,Lohann Santos Anselmo,Masculino,luta,Master,TATAME 3
+24,FAIXA MARROM MASCULINO,12 ANOS,Davi Barbosa das Graças,Masculino,luta,Scorpion,TATAME 1
+25,FAIXA MARROM MASCULINO,12 ANOS,Walace Ferreira Pires,Masculino,luta,Panda Shubu-Dô,TATAME 1
+25,,12 ANOS,Thiago José de Lima,Masculino,luta,Equipe Ágile,TATAME 1
+25,,12 ANOS,Kelvin Meira de Souza,Masculino,luta,Scorpion,TATAME 1
+26,,12 ANOS,Enzo Gabriel Monteiro dos Santos,Masculino,luta,Equipe Ágile,TATAME 1
+26,FAIXA MARROM MASCULINO,12 ANOS,Pedro Henrique Graeff,Masculino,luta,Panda Shubu-Dô,TATAME 1
+27,FAIXA MARROM MASCULINO,12 ANOS,Kauã Alves de Oliveira Bispo,Masculino,luta,Scorpion,TATAME 2
+27,FAIXA MARROM MASCULINO,12 ANOS,Cristopher Miguel da Silva,Masculino,luta,Master,TATAME 2
+27,FAIXA MARROM MASCULINO,12 ANOS,Heitor de Camargo Titski,Masculino,luta,Panda Shubu-Dô,TATAME 2
+28,,12 ANOS,Kaue Myktczuk de Freitas,Masculino,luta,Gladiador,TATAME 1
+28,,12 ANOS,Matias Pinheiro Tormena,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+29,,12 ANOS,Luiz Gustavo Silva Benito,Masculino,luta,AKSD,TATAME 3
+29,FAIXA LARANJA MASCULINO,12 ANOS,Pedro Lopes Pinto,Masculino,luta,Equipe Ágile,TATAME 3
+29,,12 ANOS,Luiz Augusto Jung,Masculino,luta,Karatê Guaratuba,TATAME 3
+30,,12 ANOS,Renato Miguel Trapp Gaspar,Masculino,luta,Karatê Guaratuba,TATAME 2
+30,FAIXA MARROM MASCULINO,12 ANOS,Miguel da Cunha Tavares,Masculino,luta,Master,TATAME 2
+31,,12 ANOS,Jackson Boaventura de Souza,Masculino,luta,Neves Fight,TATAME 3
+31,FAIXA VERDE MASCULINO,12 ANOS,Matheus Santos de Almeida,Masculino,luta,Master,TATAME 3
+32,FAIXA MARROM MASCULINO,13 ANOS,Otávio Squiba dos Santos,Masculino,luta,Duellum,TATAME 1
+32,FAIXA VERDE MASCULINO,13 ANOS,Kauã Felix Mattar,Masculino,luta,Master,TATAME 1
+33,,13 E 14 ANOS,Wesley Nunes Ferreira,Masculino,luta,Agudos do Sul,TATAME 1
+33,,13 E 14 ANOS,Pedro Marcondes Rodrigues,Masculino,luta,Scorpion,TATAME 1
+33,,13 E 14 ANOS,Kauan Eduardo de Brito Lee,Masculino,luta,Scorpion,TATAME 1
+34,,13 ANOS,Enzo Braulio de Souza,Masculino,luta,Neves Fight,TATAME 2
+34,FAIXA LARANJA MASCULINO,13 ANOS,Arthur de Oliveira Peixe,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 2
+35,FAIXA ROXA MASCULINO,13 ANOS,Murilo Amarante da Silveira,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 2
+35,FAIXA MARROM MASCULINO,13 ANOS,Kelvin Gabriel Rozendo de Paula,Masculino,luta,Scorpion,TATAME 2
+35,,13 ANOS,Wellington Carlos Alves da Silva,Masculino,luta,Neves Fight,TATAME 2
+36,,12 E13 ANOS,João Vitor Oliveira de Lima,Masculino,luta,Agudos do Sul,TATAME 3
+36,FAIXA VERDE MASCULINO,12 E13 ANOS,Pyetro Rafael Santos Kupczak,Masculino,luta,Master,TATAME 3
+37,,13 E 14 ANOS,Leonardo Cardoso Mendes,Masculino,luta,Master,TATAME 1
+37,FAIXA MARROM MASCULINO,13 E 14 ANOS,Abner Medeiros Bathke,Masculino,luta,Scorpion,TATAME 1
+38,FAIXA MARROM MASCULINO,13 E 14 ANOS,Eduardo Lucio Cristo de Oliveira,Masculino,luta,Scorpion,TATAME 2
+38,,13 E 14 ANOS,Miguel Wanderlind Gorges,Masculino,luta,Simioni,TATAME 2
+39,,14 ANOS,,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+39,,14 ANOS,Diego Ottersbach Fonseca,Masculino,luta,Equipe Mamute,TATAME 3
+40,FAIXA ROXA MASCULINO,14 ANOS,Rafael Oliveira de Sá,Masculino,luta,AKSD,TATAME 2
+40,,14 ANOS,Eduardo Vieira Marques,Masculino,luta,Optimus,TATAME 2
+41,FAIXA VERDE MASCULINO,15 ANOS,Enzo Gabriel dos Santos Braguini,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+41,FAIXA LARANJA MASCULINO,15 ANOS,Henrique Brito Oliveira,Masculino,luta,Optimus,TATAME 3
+41,,15 ANOS,Erick Pedroso de Sousa,Masculino,luta,Scorpion,TATAME 3
+42,FAIXA LARANJA MASCULINO,15 ANOS,João Marcos Corrêa Cordeiro,Masculino,luta,Master,TATAME 2
+42,,15 ANOS,Otávio de Camargo Titski,Masculino,luta,Panda Shubu-Dô,TATAME 2
+43,,15 E 16 ANOS,Solano Henrique Severo,Masculino,luta,Optimus,TATAME 1
+43,,15 E 16 ANOS,Iuri Francisco Gonçalves Flores,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+44,,16 ANOS,Davi Eduardo Prossak,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+44,FAIXA MARROM MASCULINO,16 ANOS,Antonio Samuel Cavalheiro,Masculino,luta,Duellum,TATAME 3
+45,FAIXA VERDE MASCULINO,17 ANOS,Rickelm Savedra Mendes,Masculino,luta,Dojô Szymanski,TATAME 3
+45,,17 ANOS,Enzo Gabriel Vilas Boas Alves,Masculino,luta,Simioni,TATAME 3
+46,FAIXA ROXA MASCULINO,17 ANOS,Mateus Felipe Tzeciuk,Masculino,luta,Duellum,TATAME 1
+46,,17 ANOS,Luan Antonio Pereira,Masculino,luta,Scorpion,TATAME 1
+47,,16 E 17 ANOS,Luiz Eduardo Cochinski Barcote,Masculino,luta,Duellum,TATAME 2
+47,,16 E 17 ANOS,Jakson Yuri Hido Hashimoto Ferreira,Masculino,luta,Scorpion,TATAME 2
+48,,17 ANOS,Daniel Batista Silva,Masculino,luta,Scorpion,TATAME 2
+49,FAIXA ROXA MASCULINO,PENA,Murillo do Vale Alano,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+49,FAIXA MARROM MASCULINO,PENA,Gabryel Polidoro,Masculino,luta,Master,TATAME 3
+50,FAIXA MARROM MASCULINO,PENA,Thalison Eduardo Stakiu,Masculino,luta,Equipe Ágile,TATAME 1
+50,,PENA,Rhuan Santos Ribeiro,Masculino,luta,Duellum,TATAME 1
+50,FAIXA ROXA MASCULINO,PENA,Whide Barbosa de Assis,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+51,FAIXA LARANJA MASCULINO,LEVE,Aurélio Thomaz da Silva Corrêa,Masculino,luta,Master,TATAME 1
+51,,LEVE,Lucas Nunes Cunha,Masculino,luta,Master,TATAME 1
+52,,MEIO MÉDIO,Vitor de Lima,Masculino,luta,Top Moviment,TATAME 2
+52,FAIXA MARROM MASCULINO,MEIO MÉDIO,Guilherme Bryann Otto Machado,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 2
+52,,MEIO MÉDIO,Gustavo Barboza Wicki,Masculino,luta,Scorpion,TATAME 2
+53,,MEIO PESADO,André Luís Haloten,Masculino,luta,Equipe Harpia,TATAME 2
+53,,MEIO PESADO,Alexandre Lourenço Camargo,Masculino,luta,Panda Shubu-Dô,TATAME 2
+54,FAIXA VERDE MASCULINO,PESADO,Elivelton Soares de Andrade,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+54,FAIXA ROXA MASCULINO,PESADO,Jose Adenilson do Espírito Santo,Masculino,luta,Equipe Ágile,TATAME 1
+54,FAIXA VERDE MASCULINO,PESADO,Mateus Vinicius da Silva,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 1
+55,FAIXA MARROM MASCULINO,PESADÍSSIMO,Jacó Luiz Chandeski,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+55,,PESADÍSSIMO,Julio Cesar dos Santos,Masculino,luta,Equipe Ágile,TATAME 3
+55,,PESADÍSSIMO,João Carlos Teixeira Passine,Masculino,luta,Simioni,TATAME 3
+56,FAIXA VERDE MASCULINO,LEVE,Renato de Andrade Machado,Masculino,luta,Equipe de Paula,TATAME 1
+56,FAIXA LARANJA MASCULINO,LEVE,Adnilson Luis da Silva,Masculino,luta,Master,TATAME 1
+57,,MEIO MÉDIO,Bruno Cesar de Oliveira,Masculino,luta,Neves Fight,TATAME 2
+57,,MEIO MÉDIO,Helton Luiz da Silva,Masculino,luta,Scorpion,TATAME 2
+58,,MEIO PESADO,André Marcelo Basniak,Masculino,luta,Equipe Batista,TATAME 2
+58,,MEIO PESADO,Alberto Simão de Oliveira,Masculino,luta,Scorpion,TATAME 2
+58,,MEIO PESADO,Marcelo Marcilio,Masculino,luta,Neves Fight,TATAME 2
+59,,PESADO,Luiz Henrique Filla da Silva,Masculino,luta,Dojô São Bartolomeu,TATAME 3
+59,,PESADO,Márcio Martins Bozza,Masculino,luta,Mestre Sydney – CDL/Shogun Team,TATAME 3
+60,FAIXA MARROM MASCULINO,MEIO MÉDIO,Carlos Alberto Pereira Goulart,Masculino,luta,Scorpion,TATAME 3
